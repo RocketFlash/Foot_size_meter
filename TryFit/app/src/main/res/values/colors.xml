@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#071e4a</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#2851f7</color>
+    <color name="colorInactive">@android:color/darker_gray</color>
+    <color name="colorBackground">@android:color/white</color>
+    <color name="facebookButton">#4162a6</color>
+    <color name="googleButton">#d44250</color>
+</resources>

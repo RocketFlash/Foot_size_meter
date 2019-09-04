@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="images">
+        <item>The Corsa</item>
+        <item>The Tenda</item>
+        <item>The Cercрio</item>
+        <item>The Pilone</item>
+        <item>The Cadenza</item>
+        <item>The Fortuna</item>
+        <item>The Stelatto</item>
+        <item>The Torneo</item>
+        <item>The Revista</item>
+        <item>The Cammeo</item>
+        <item>The Esatto</item>
+        <item>The Corsetto</item>
+        <item>The Lustro</item>
+        <item>The Brivido</item>
+        <item>The Pastoso</item>
+        <item>The Sereno</item>
+        <item>The Folata</item>
+        <item>The Felize</item>
+        <item>The Medio</item>
+        <item>The Fumo</item>
+        <item>The Attorno</item>
+        <item>The Spezia</item>
+        <item>The Esaеto</item>
+        <item>The Corsettino</item>
+        <item>The Noto</item>
+        <item>The Nuvola</item>
+        <item>The Isola</item>
+        <item>The Tramonto</item>
+    </string-array>
+</resources>

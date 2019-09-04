@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">TryFit</string>
+    <string name="take_picture">Take Picture</string>
+    <string name="select_picture">Select Picture</string>
+    <string name="result_yes">Accept</string>
+    <string name="result_no">Retake</string>
+    <string name="description_info">Info</string>
+    <string name="request_permission">This sample needs camera permission.</string>
+    <string name="camera_error">This device doesn\'t support Camera2 API.</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="result_sheet_not_found">Couldn\'t detect paper sheet. Please make sure all four corners of the sheet are visible</string>
+    <string name="result_foot_not_found">Couldn\'t detect feet contour. Please make sure that feet is clearly visible and there are no other objects in sight</string>
+
+    <string name="section_text_1">
+        Welcome to TryFit application! Do you want to know your real feet size and be confident in your shoes purchase? Swipe left or press NEXT to get you started
+    </string>
+
+    <string name="section_text_2">
+        Place a white clean A4-sized sheet of paper on the dark floor. Choose the spot with the light coming from above
+    </string>
+
+    <string name="section_text_3">
+        Put on long black socks and place your LEFT feet on the sheet of paper. Align the back of your feet with the bottom of the paper sheet
+    </string>
+
+    <string name="section_text_6">
+        Put on long black socks and place your RIGHT feet on the sheet of paper. Align the back of your feet with the bottom of the paper sheet
+    </string>
+
+    <string name="catalog_title">M\.Gemi Catalog</string>
+    <string name="title_activity_view_pager">ViewPagerActivity</string>
+    <string name="action_next">Next</string>
+    <string name="try_again">Try Again</string>
+    <string name="exit">Exit</string>
+    <string name="left_foot">Left Foot</string>
+    <string name="right_foot">Right Foot</string>
+    <string name="stick_length">Stick Length:</string>
+    <string name="ball_width">Ball Width:</string>
+    <string name="foot_parameters">Foot Parameters</string>
+    <string name="foot_size">Foot Size</string>
+    <string name="rescan">Rescan</string>
+    <string name="prompt_first_name">First Name</string>
+    <string name="prompt_last_name">Last Name</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_register">Register</string>
+    <string name="prompt_gender">Gender</string>
+    <string name="gender_female">Female</string>
+    <string name="gender_male">Male</string>
+    <string name="or_register_with">Or Register With</string>
+    <string name="create_tryfit_profile">Create TryFit profile</string>
+</resources>
