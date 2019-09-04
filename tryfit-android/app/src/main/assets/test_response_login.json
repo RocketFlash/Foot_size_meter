@@ -1,0 +1,65 @@
+{
+  "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaWQiOiI2MzEyOTFjMi1iNmFkLTQxNGYtOTlmYS0wMDg4MzFlYTdiYTUifQ.Vh_8NFHvzOgcufmzxOXyGURS1HbhgYPEkAGcJa0Sx6E",
+  "client": {
+    "id": "631291c2-b6ad-414f-99fa-008831ea7ba5",
+    "contractorID": "bde29aa1-9f24-4f51-ad50-7dfe2cae3882",
+    "created": 1502989548,
+    "updated": 1503056787,
+    "deleted": false,
+    "loyaltyCard": "",
+    "shoeSize": "",
+    "name": "Auth test",
+    "surname": "",
+    "email": "test@try.fit",
+    "phone": "+7 ",
+    "sendEmail": false,
+    "sendSms": false,
+    "sex": 1,
+    "weight": 0,
+    "height": 0,
+    "scan": {
+      "scannerID": "",
+      "clientID": "d2a6a5ee-8526-4b37-b462-7458a26d5948",
+      "created": 1502989548,
+      "updated": 0,
+      "measures": [],
+      "leftMeasures": [
+        286.1892,
+        108.176216,
+        74.61283,
+        48.110397,
+        282.51953,
+        300.99762,
+        403.78647,
+        313.69574,
+        353.77222,
+        334.56
+      ],
+      "rightMeasures": [
+        288.91248,
+        109.884674,
+        80.43601,
+        46.53251,
+        283.9437,
+        305.1942,
+        425.41852,
+        310.0494,
+        317.01813,
+        337.44
+      ],
+      "plantLeft": [],
+      "plantRight": [],
+      "weight": 61,
+      "deleted": false,
+      "duration": 26,
+      "bbc": {
+        "x": 0.29345,
+        "y": 0
+      }
+    },
+    "scans": null,
+    "surveys": [],
+    "data": null,
+    "sync": true
+  }
+}

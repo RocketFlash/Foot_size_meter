@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main_content"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true"
+    tools:context="com.tryfit.camera.InstructionsActivity">
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/view_pager"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/tabLayout"
+        app:layout_behavior="@string/appbar_scrolling_view_behavior" />
+
+    <LinearLayout
+        android:id="@+id/tabLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:orientation="vertical"
+        android:gravity="center_horizontal"
+        android:background="@color/colorBackground">
+
+        <android.support.design.widget.TabLayout
+            android:id="@+id/tabDots"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:tabBackground="@drawable/activity_try_fit_camera_tab_selector"
+            app:tabGravity="center"
+            app:tabIndicatorHeight="0dp" />
+
+        <Button
+            android:id="@+id/action_next"
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:paddingStart="24dp"
+            android:backgroundTint="@color/colorAccent"
+            android:textColor="@android:color/white"
+            android:drawableEnd="@drawable/ic_arrow_forward_black_24dp"
+            android:drawableTint="@android:color/white"
+            android:layout_marginBottom="16dp"
+            android:text="@string/action_next" />
+
+    </LinearLayout>
+
+    <FrameLayout
+        android:id="@+id/fragment_container"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"></FrameLayout>
+
+</RelativeLayout>

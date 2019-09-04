@@ -1,0 +1,172 @@
+<resources>
+    <string name="app_name">TryFit</string>
+    <string name="take_picture">Take Picture</string>
+    <string name="select_picture">Select Picture</string>
+    <string name="result_yes">Accept</string>
+    <string name="result_no">Retake</string>
+    <string name="description_info">Info</string>
+    <string name="request_permission">This sample needs camera permission.</string>
+    <string name="camera_error">This device doesn\'t support Camera2 API.</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="result_sheet_not_found">Couldn\'t detect paper sheet. Please make sure all four corners of the sheet are visible</string>
+    <string name="result_foot_not_found">Couldn\'t detect feet contour. Please make sure that feet is clearly visible and there are no other objects in sight</string>
+
+    <string name="my_instruction1">
+1)\t\tPlace two clean sheets of A4 paper as shown above. For the correct application work, use the dark floor and dark socks. Make sure that the lighting does not create large shadows.\n\n</string>
+    <string name="my_instruction2">
+2)\t\tPlace foot on the sheets as shown. The heel must be aligned with the edge of the sheet. To do this, you can use a wall, a book or any other solid and flat plane.\n\n</string>
+    <string name="my_instruction3">
+3)\t\tPoint the phone camera to the top of the sheet. Make sure that the entire sheet falls into the selected area.\n\n</string>
+    <string name="my_instruction4">
+4)\t\tAfter the camera detects the sheets of paper, it automatically will take a picture and  will start processing.\n\n</string>
+
+    <string name="begin"> Begin</string>
+    <string name="Rescan"> Rescan </string>
+    <string name="OK"> OK </string>
+    <string name="section_text_1">
+        Welcome to TryFit application! Do you want to know your real feet value and be confident in your shoes purchase? Swipe left or press NEXT to get you started
+    </string>
+
+    <string name="section_text_2">
+        Place a clean white A4-sized sheet of paper on the dark floor. Choose a spot with the light coming from above
+    </string>
+
+    <string name="section_text_3">
+        Put on long black socks and place your LEFT foot on to the sheet of paper. Align the back of your feet with the bottom of the sheet
+    </string>
+
+    <string name="section_text_6">
+        Put on long black socks and place your RIGHT foot on the sheet of paper. Align the back of your feet with the bottom of the paper sheet
+    </string>
+
+    <string name="t_section_text_1">
+        Place two clean white A4-sized sheets of paper on top of each other on the dark floor next to a wall
+    </string>
+
+    <string name="t_section_text_2">
+        Put on black socks and place your foot on to the sheets of paper. Align the back of your feet with the bottom of the sheet
+    </string>
+
+    <string name="t_section_text_3">
+        Take a picture from above. Make sure all corners of paper sheets are visible
+    </string>
+
+    <string name="catalog_title">M\.Gemi Catalog</string>
+    <string name="title_activity_view_pager">ViewPagerActivity</string>
+    <string name="action_next">Next</string>
+    <string name="try_again">Try Again</string>
+    <string name="exit">Exit</string>
+    <string name="left_foot">Left Foot</string>
+    <string name="right_foot">Right Foot</string>
+    <string name="stick_length">Stick Length</string>
+    <string name="ball_width">Ball Width</string>
+    <string name="foot_parameters">Foot Parameters</string>
+    <string name="foot_size">Foot Size</string>
+    <string name="rescan">Rescan</string>
+    <string name="prompt_first_name">First Name</string>
+    <string name="prompt_last_name">Last Name</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_register">Register</string>
+    <string name="prompt_gender">Gender</string>
+    <string name="gender_female">Female</string>
+    <string name="gender_male">Male</string>
+    <string name="or_register_with">Or Register With</string>
+    <string name="create_tryfit_profile">Create TryFit profile</string>
+    <string name="prompt_scan_using_camera">Using your phone\'s camera</string>
+    <string name="contractor_id">Contractor ID</string>
+    <string name="prompt_contractor_id">To access the app enter a unique code of the contractor</string>
+    <string name="scan_qr_code">Scan QR-code</string>
+    <string name="prompt_sign_in_with_qr">Or sign in with QR-code</string>
+    <string name="title_authentication">Authentication</string>
+    <string name="title_activity_try_fit_scanner">TryFitScannerActivity</string>
+    <string name="tryfit_copyright">© 2017, TryFit LLC. All rights reserved</string>
+    <string name="or">Or</string>
+    <string name="title_scan_qr">Scan QR code</string>
+    <string name="welcome_message">Welcome to TryFit app!</string>
+    <string name="connection_instructions">Follow 3 simple steps and press Connect to get you started\nStep 1. Open WiFi Settings\nStep 2. Connect to WiFi network \"TryFit\"\nStep 3. Return back to TryFit app and press Retry</string>
+    <string name="prompt_connect_to_scanner">Connect to TryFit Scanner</string>
+    <string name="prompt_start_scanning">Start Scanning</string>
+    <string name="scan_instructions">Remove your shoes and step on to the Scanner.\nPlace your feet inside the white helper contours. Roll up your pants above the ankles.Make sure your socks are wearing tight.\nPress \"Start Scanning\" button whenever your are ready.</string>
+    <string name="prompt_scan_qr_code">Results QR code</string>
+    <string name="scan_qr_code_instructions">If you have already scanned your feet, ask consultant for a QR code with your results and press \"Scan QR code\"</string>
+    <string name="new_scan">New Scan</string>
+    <string name="scans">Scans</string>
+    <string name="settings">Settings</string>
+    <string name="cart">Cart</string>
+    <string name="left">Left</string>
+    <string name="right">Right</string>
+    <string name="heel_width">Heel Width</string>
+    <string name="toe_height">Toe Height</string>
+    <string name="ball_girth">Ball Girth</string>
+    <string name="instep_girth">Instep Girth</string>
+    <string name="heel_girth">Heel Girth</string>
+    <string name="ankle_girth">Ankle Girth</string>
+    <string name="calf_girth">Calf Girth</string>
+    <string name="close">Close</string>
+    <string name="scanner_instructions">Connect to Scanner</string>
+    <string name="prompt_launch_demo">Explore</string>
+    <string name="all">All</string>
+    <string name="fitrate_range_best_text">Best Fit</string>
+    <string name="fitrate_range_best">8.5 – 10</string>
+    <string name="fitrate_range_good_text">Good Fit</string>
+    <string name="fitrate_range_good">7.5 – 8.5</string>
+    <string name="fitrate_range_average_text">Average Fit</string>
+    <string name="fitrate_range_average">6.5 – 7.5</string>
+    <string name="fitrate_range_bad_text">Bad Fit</string>
+    <string name="fitrate_range_bad">0 – 6.5</string>
+    <string name="fitrate_range_tight">Tight</string>
+    <string name="fitrate_range_loose">Loose</string>
+    <string name="tight">Tight</string>
+    <string name="loose">Loose</string>
+    <string name="to_cart">To cart</string>
+    <string name="scan_tryfit_qr_code">Scan TryFit profile QR-code</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="foot_height">Foot Height</string>
+    <string name="prompt_phone">Enter your phone number</string>
+    <string name="sign_in_by_email">Sign in by email</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="sign_in_by_phone">Sign in by phone</string>
+    <string name="sign_in">Sign In</string>
+    <string name="prompt_repeat_password">Repeat password</string>
+    <string name="action_finish">Finish</string>
+    <string name="action_back">Back</string>
+    <string name="sign_up_by_email">Sign Up by email</string>
+    <string name="sign_up_by_phone">Sign Up by phone</string>
+    <string name="error_incorrect_email">Incorrect email address</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="error_incorrect_number">Incorrect phone number</string>
+    <string name="error_incorrect_password">Incorrect password</string>
+    <string name="error_passwords_dont_match">Passwords don\'t match</string>
+    <string name="error_user_exists">User already exists</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="or_start_scanning">Or Start Scanning</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="scan_3d">3D Scan</string>
+    <string name="scan_2d">2D Scan</string>
+    <string name="new_3d_scan">New 3D scan</string>
+    <string name="new_2d_scan">New 2D scan</string>
+    <string name="user">User:</string>
+    <string name="unknown">Unknown</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="no_3d_scan">You don\'t have a 3D scan yet</string>
+    <string name="no_2d_scan">You don\'t have a 2D scan yet</string>
+    <string name="no_connection_to_server">Failed to connect to TryFit server</string>
+    <string name="retry">Retry</string>
+    <string name="no_connection_to_scanner">Failed to connect to TryFit scanner</string>
+    <string name="prompt_connect_to_emulator">Connect to TryFit Emulator</string>
+    <string name="profile">Profile</string>
+    <string name="try_fit_plugin">TryFit PlugIn</string>
+    <string name="loading">Loading...</string>
+    <string name="no_sizes_available">No sizes available</string>
+    <string name="_3d_scan">3D Scan</string>
+    <string name="_2d_scan">2D Scan</string>
+    <string name="fittings">Fittings</string>
+    <string name="qr_code">QR Code</string>
+    <string name="processing">Processing...</string>
+</resources>

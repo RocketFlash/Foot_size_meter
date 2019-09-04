@@ -1,0 +1,2126 @@
+[
+  {
+    "barcode": "",
+    "cities": null,
+    "code": "W1260GO6/D",
+    "fitrate": 9.6,
+    "groupID": "d89c8ce4-beb2-4ad3-a32e-6b4c80aa16f0",
+    "id": "4364d6cf-22e9-49eb-8945-b5ddb6c87b81",
+    "images": [
+      "http://nb.scene7.com/is/image/NB/w1260go6_nb_02_i",
+      "http://nb.scene7.com/is/image/NB/w1260go6_nb_03_i "
+    ],
+    "model": "New Balance 1260v6",
+    "price": 149.99,
+    "sex": 0,
+    "size": 8.5,
+    "fitrateBase": -9.552346229553223,
+    "index": 60
+  },
+  {
+    "barcode": "",
+    "cities": null,
+    "code": "W1080BY7/D",
+    "fitrate": 9.6,
+    "groupID": "d89c8ce4-beb2-4ad3-a32e-6b4c80aa16f1",
+    "id": "2c8b7663-5d4e-478f-8012-cffc55fe25c2",
+    "images": [
+      "http://nb.scene7.com/is/image/NB/w1080by7_nb_02_i",
+      "http://nb.scene7.com/is/image/NB/w1080by7_nb_14_i"
+    ],
+    "model": "Fresh Foam 1080v7",
+    "price": 149.99,
+    "sex": 0,
+    "size": 8.5,
+    "fitrateBase": -9.552346229553223,
+    "index": 94
+  },
+  {
+    "barcode": "",
+    "cities": null,
+    "code": "WRUSHCG2/D",
+    "fitrate": 9.4,
+    "groupID": "d89c8ce4-beb2-4ad3-a32e-6b4c80aa16f0",
+    "id": "7c047809-adc4-43a2-8381-3ebe6cb331ef",
+    "images": [
+      "http://nb.scene7.com/is/image/NB/wrushcg2_nb_02_i",
+      "http://nb.scene7.com/is/image/NB/wrushcg2_nb_03_i"
+    ],
+    "model": "Vazee Rush v2",
+    "price": 79.99,
+    "sex": 0,
+    "size": 9.5,
+    "fitrateBase": 9.437769889831543,
+    "index": 43
+  },
+  {
+    "barcode": "",
+    "cities": null,
+    "code": "WZANTWG3/D",
+    "fitrate": 9.4,
+    "groupID": "d89c8ce4-beb2-4ad3-a32e-6b4c80aa16f0",
+    "id": "3876a399-4761-4991-a7a5-911cfcb0ceee",
+    "images": [
+      "http://nb.scene7.com/is/image/NB/wzantwg3_nb_02_i",
+      "http://nb.scene7.com/is/image/NB/wzantwg3_nb_03_i"
+    ],
+    "model": "Fresh Foam Zante v3",
+    "price": 99.99,
+    "sex": 0,
+    "size": 9.5,
+    "fitrateBase": 9.437769889831543,
+    "index": 117
+  },
+  {
+    "barcode": "",
+    "cities": null,
+    "code": "W860BP7/D",
+    "fitrate": 9.3,
+    "groupID": "d89c8ce4-beb2-4ad3-a32e-6b4c80aa16f0",
+    "id": "60a21f25-33ee-4bf8-ba38-298ab1e3dfaa",
+    "images": [
+      "http://nb.scene7.com/is/image/NB/w860bp7_nb_02_i",
+      "http://nb.scene7.com/is/image/NB/w860bp7_nb_14_i"
+    ],
+    "model": "New Balance 860v7",
+    "price": 124.99,
+    "sex": 0,
+    "size": 9,
+    "fitrateBase": -9.313568115234375,
+    "index": 67
+  },
+  {
+    "barcode": "",
+    "cities": null,
+    "code": "W1260GO6/D",
+    "fitrate": 9,
+    "groupID": "d89c8ce4-beb2-4ad3-a32e-6b4c80aa16f0",
+    "id": "4364d6cf-22e9-49eb-8945-b5ddb6c87b81",
+    "images": [
+      "http://nb.scene7.com/is/image/NB/w1260go6_nb_02_i",
+      "http://nb.scene7.com/is/image/NB/w1260go6_nb_03_i "
+    ],
+    "model": "New Balance 1260v6",
+    "price": 149.99,
+    "sex": 0,
+    "size": 9,
+    "fitrateBase": 8.986963272094727,
+    "index": 59
+  },
+  {
+    "barcode": "",
+    "cities": null,
+    "code": "W1080BY7/D",
+    "fitrate": 9,
+    "groupID": "d89c8ce4-beb2-4ad3-a32e-6b4c80aa16f1",
+    "id": "2c8b7663-5d4e-478f-8012-cffc55fe25c2",
+    "images": [
+      "http://nb.scene7.com/is/image/NB/w1080by7_nb_02_i",
+      "http://nb.scene7.com/is/image/NB/w1080by7_nb_14_i"
+    ],
+    "model": "Fresh Foam 1080v7",
+    "price": 149.99,
+    "sex": 0,
+    "size": 9,
+    "fitrateBase": 8.986963272094727,
+    "index": 93
+  },
+  {
+    "barcode": "",
+    "cities": null,
+    "code": "W1080BY7/EE",
+    "fitrate": 8.7,
+    "groupID": "d89c8ce4-beb2-4ad3-a32e-6b4c80aa16f0",
+    "id": "7426ca11-b9a3-4e25-80a1-95537d312b0a",
+    "images": [
+      "http://nb.scene7.com/is/image/NB/w1080by7_nb_02_i",
+      "http://nb.scene7.com/is/image/NB/w1080by7_nb_14_i"
+    ],
+    "model": "Fresh Foam 1080v7",
+    "price": 124.99,
+    "sex": 0,
+    "size": 8.5,
+    "fitrateBase": 8.728903770446777,
+    "index": 109
+  },
+  {
+    "barcode": "",
+    "cities": null,
+    "code": "W1260GO6/EE",
+    "fitrate": 8.7,
+    "groupID": "d89c8ce4-beb2-4ad3-a32e-6b4c80aa16f0",
+    "id": "cfaca8de-460d-4edd-aae9-6c02376eef43",
+    "images": [
+      "http://nb.scene7.com/is/image/NB/w1260go6_nb_02_i",
+      "http://nb.scene7.com/is/image/NB/w1260go6_nb_03_i "
+    ],
+    "model": "New Balance 1260v6",
+    "price": 149.99,
+    "sex": 0,
+    "size": 8.5,
+    "fitrateBase": 8.728903770446777,
+    "index": 50
+  },
+  {
+    "barcode": "",
+    "cities": null,
+    "code": "W860BP7/D",
+    "fitrate": 8.7,
+    "groupID": "d89c8ce4-beb2-4ad3-a32e-6b4c80aa16f0",
+    "id": "60a21f25-33ee-4bf8-ba38-298ab1e3dfaa",
+    "images": [
+      "http://nb.scene7.com/is/image/NB/w860bp7_nb_02_i",
+      "http://nb.scene7.com/is/image/NB/w860bp7_nb_14_i"
+    ],
+    "model": "New Balance 860v7",
+    "price": 124.99,
+    "sex": 0,
+    "size": 9.5,
+    "fitrateBase": 8.69832706451416,
+    "index": 66
+  },
+  {
+    "barcode": "",
+    "cities": null,
+    "code": "W860BP7/EE",
+    "fitrate": 8.5,
+    "groupID": "d89c8ce4-beb2-4ad3-a32e-6b4c80aa16f0",
+    "id": "fcb3b06b-d0a0-44dc-aef2-fcd1b67e02f7",
+    "images": [
+      "http://nb.scene7.com/is/image/NB/w860bp7_nb_02_i",
+      "http://nb.scene7.com/is/image/NB/w860bp7_nb_14_i"
+    ],
+    "model": "New Balance 860v7",
+    "price": 124.99,
+    "sex": 0,
+    "size": 9,
+    "fitrateBase": 8.52627944946289,
+    "index": 21
+  },
+  {
+    "barcode": "",
+    "cities": null,
+    "code": "WZANTWG3/D",
+    "fitrate": 8.5,
+    "groupID": "d89c8ce4-beb2-4ad3-a32e-6b4c80aa16f0",
+    "id": "3876a399-4761-4991-a7a5-911cfcb0ceee",
+    "images": [
+      "http://nb.scene7.com/is/image/NB/wzantwg3_nb_02_i",
+      "http://nb.scene7.com/is/image/NB/wzantwg3_nb_03_i"
+    ],
+    "model": "Fresh Foam Zante v3",
+    "price": 99.99,
+    "sex": 0,
+    "size": 10,
+    "fitrateBase": 8.483885765075684,
+    "index": 116
+  },
+  {
+    "barcode": "",
+    "cities": null,
+    "code": "W860BP7/D",
+    "fitrate": 8.5,
+    "groupID": "d89c8ce4-beb2-4ad3-a32e-6b4c80aa16f0",
+    "id": "60a21f25-33ee-4bf8-ba38-298ab1e3dfaa",
+    "images": [
+      "http://nb.scene7.com/is/image/NB/w860bp7_nb_02_i",
+      "http://nb.scene7.com/is/image/NB/w860bp7_nb_14_i"
+    ],
+    "model": "New Balance 860v7",
+    "price": 124.99,
+    "sex": 0,
+    "size": 8.5,
+    "fitrateBase": -8.45417594909668,
+    "index": 68
+  },
+  {
+    "barcode": "",
+    "cities": null,
+    "code": "WRUSHCG2/D",
+    "fitrate": 8.5,
+    "groupID": "d89c8ce4-beb2-4ad3-a32e-6b4c80aa16f0",
+    "id": "7c047809-adc4-43a2-8381-3ebe6cb331ef",
+    "images": [
+      "http://nb.scene7.com/is/image/NB/wrushcg2_nb_02_i",
+      "http://nb.scene7.com/is/image/NB/wrushcg2_nb_03_i"
+    ],
+    "model": "Vazee Rush v2",
+    "price": 79.99,
+    "sex": 0,
+    "size": 10,
+    "fitrateBase": 8.483885765075684,
+    "index": 42
+  },
+  {
+    "barcode": "",
+    "cities": null,
+    "code": "W1080BY7/D",
+    "fitrate": 8.4,
+    "groupID": "d89c8ce4-beb2-4ad3-a32e-6b4c80aa16f1",
+    "id": "2c8b7663-5d4e-478f-8012-cffc55fe25c2",
+    "images": [
+      "http://nb.scene7.com/is/image/NB/w1080by7_nb_02_i",
+      "http://nb.scene7.com/is/image/NB/w1080by7_nb_14_i"
+    ],
+    "model": "Fresh Foam 1080v7",
+    "price": 149.99,
+    "sex": 0,
+    "size": 9.5,
+    "fitrateBase": 8.411087989807129,
+    "index": 92
+  },
+  {
+    "barcode": "",
+    "cities": null,
+    "code": "W1260GO6/D",
+    "fitrate": 8.4,
+    "groupID": "d89c8ce4-beb2-4ad3-a32e-6b4c80aa16f0",
+    "id": "4364d6cf-22e9-49eb-8945-b5ddb6c87b81",
+    "images": [
+      "http://nb.scene7.com/is/image/NB/w1260go6_nb_02_i",
+      "http://nb.scene7.com/is/image/NB/w1260go6_nb_03_i "
+    ],
+    "model": "New Balance 1260v6",
+    "price": 149.99,
+    "sex": 0,
+    "size": 9.5,
+    "fitrateBase": 8.411087989807129,
+    "index": 58
+  },
+  {
+    "barcode": "",
+    "cities": null,
+    "code": "W860BP7/B",
+    "fitrate": 8.4,
+    "groupID": "d89c8ce4-beb2-4ad3-a32e-6b4c80aa16f0",
+    "id": "9c2dc0fc-c8d9-47e1-894a-e336970e865c",
+    "images": [
+      "http://nb.scene7.com/is/image/NB/w860bp7_nb_02_i",
+      "http://nb.scene7.com/is/image/NB/w860bp7_nb_14_i"
+    ],
+    "model": "New Balance 860v7",
+    "price": 124.99,
+    "sex": 0,
+    "size": 10,
+    "fitrateBase": 8.374608993530273,
+    "index": 29
+  },
+  {
+    "barcode": "",
+    "cities": null,
+    "code": "W860BP7/B",
+    "fitrate": 8.3,
+    "groupID": "d89c8ce4-beb2-4ad3-a32e-6b4c80aa16f0",
+    "id": "9c2dc0fc-c8d9-47e1-894a-e336970e865c",
+    "images": [
+      "http://nb.scene7.com/is/image/NB/w860bp7_nb_02_i",
+      "http://nb.scene7.com/is/image/NB/w860bp7_nb_14_i"
+    ],
+    "model": "New Balance 860v7",
+    "price": 124.99,
+    "sex": 0,
+    "size": 10.5,
+    "fitrateBase": 8.256204605102539,
+    "index": 28
+  },
+  {
+    "barcode": "",
+    "cities": null,
+    "code": "W1080BY7/EE",
+    "fitrate": 8.2,
+    "groupID": "d89c8ce4-beb2-4ad3-a32e-6b4c80aa16f0",
+    "id": "7426ca11-b9a3-4e25-80a1-95537d312b0a",
+    "images": [
+      "http://nb.scene7.com/is/image/NB/w1080by7_nb_02_i",
+      "http://nb.scene7.com/is/image/NB/w1080by7_nb_14_i"
+    ],
+    "model": "Fresh Foam 1080v7",
+    "price": 124.99,
+    "sex": 0,
+    "size": 9,
+    "fitrateBase": 8.199674606323242,
+    "index": 108
+  },
+  {
+    "barcode": "",
+    "cities": null,
+    "code": "W1260GO6/EE",
+    "fitrate": 8.2,
+    "groupID": "d89c8ce4-beb2-4ad3-a32e-6b4c80aa16f0",
+    "id": "cfaca8de-460d-4edd-aae9-6c02376eef43",
+    "images": [
+      "http://nb.scene7.com/is/image/NB/w1260go6_nb_02_i",
+      "http://nb.scene7.com/is/image/NB/w1260go6_nb_03_i "
+    ],
+    "model": "New Balance 1260v6",
+    "price": 149.99,
+    "sex": 0,
+    "size": 9,
+    "fitrateBase": 8.199674606323242,
+    "index": 49
+  },
+  {
+    "barcode": "",
+    "cities": null,
+    "code": "W1260GO6/B",
+    "fitrate": 8.1,
+    "groupID": "d89c8ce4-beb2-4ad3-a32e-6b4c80aa16f0",
+    "id": "0d9cd2ee-3fa3-42de-8575-587f0509f7e3",
+    "images": [
+      "http://nb.scene7.com/is/image/NB/w1260go6_nb_02_i",
+      "http://nb.scene7.com/is/image/NB/w1260go6_nb_03_i "
+    ],
+    "model": "New Balance 1260v6",
+    "price": 149.99,
+    "sex": 0,
+    "size": 10,
+    "fitrateBase": 8.10499095916748,
+    "index": 100
+  },
+  {
+    "barcode": "",
+    "cities": null,
+    "code": "W1080BY7/B",
+    "fitrate": 8.1,
+    "groupID": "d89c8ce4-beb2-4ad3-a32e-6b4c80aa16f0",
+    "id": "7c451eff-47f3-48e2-b87b-263809956c28",
+    "images": [
+      "http://nb.scene7.com/is/image/NB/w1080by7_nb_02_i",
+      "http://nb.scene7.com/is/image/NB/w1080by7_nb_14_i"
+    ],
+    "model": "Fresh Foam 1080v7",
+    "price": 149.99,
+    "sex": 0,
+    "size": 10,
+    "fitrateBase": 8.10499095916748,
+    "index": 74
+  },
+  {
+    "barcode": "",
+    "cities": null,
+    "code": "W1080BY7/B",
+    "fitrate": 8,
+    "groupID": "d89c8ce4-beb2-4ad3-a32e-6b4c80aa16f0",
+    "id": "7c451eff-47f3-48e2-b87b-263809956c28",
+    "images": [
+      "http://nb.scene7.com/is/image/NB/w1080by7_nb_02_i",
+      "http://nb.scene7.com/is/image/NB/w1080by7_nb_14_i"
+    ],
+    "model": "Fresh Foam 1080v7",
+    "price": 149.99,
+    "sex": 0,
+    "size": 10.5,
+    "fitrateBase": 8.048761367797852,
+    "index": 73
+  },
+  {
+    "barcode": "",
+    "cities": null,
+    "code": "W860BP7/B",
+    "fitrate": 8,
+    "groupID": "d89c8ce4-beb2-4ad3-a32e-6b4c80aa16f0",
+    "id": "9c2dc0fc-c8d9-47e1-894a-e336970e865c",
+    "images": [
+      "http://nb.scene7.com/is/image/NB/w860bp7_nb_02_i",
+      "http://nb.scene7.com/is/image/NB/w860bp7_nb_14_i"
+    ],
+    "model": "New Balance 860v7",
+    "price": 124.99,
+    "sex": 0,
+    "size": 9.5,
+    "fitrateBase": -8.030289649963379,
+    "index": 30
+  },
+  {
+    "barcode": "",
+    "cities": null,
+    "code": "W860BP7/D",
+    "fitrate": 8,
+    "groupID": "d89c8ce4-beb2-4ad3-a32e-6b4c80aa16f0",
+    "id": "60a21f25-33ee-4bf8-ba38-298ab1e3dfaa",
+    "images": [
+      "http://nb.scene7.com/is/image/NB/w860bp7_nb_02_i",
+      "http://nb.scene7.com/is/image/NB/w860bp7_nb_14_i"
+    ],
+    "model": "New Balance 860v7",
+    "price": 124.99,
+    "sex": 0,
+    "size": 10,
+    "fitrateBase": 8.015082359313965,
+    "index": 65
+  },
+  {
+    "barcode": "",
+    "cities": null,
+    "code": "W1260GO6/B",
+    "fitrate": 8,
+    "groupID": "d89c8ce4-beb2-4ad3-a32e-6b4c80aa16f0",
+    "id": "0d9cd2ee-3fa3-42de-8575-587f0509f7e3",
+    "images": [
+      "http://nb.scene7.com/is/image/NB/w1260go6_nb_02_i",
+      "http://nb.scene7.com/is/image/NB/w1260go6_nb_03_i "
+    ],
+    "model": "New Balance 1260v6",
+    "price": 149.99,
+    "sex": 0,
+    "size": 10.5,
+    "fitrateBase": 8.048761367797852,
+    "index": 99
+  },
+  {
+    "barcode": "",
+    "cities": null,
+    "code": "W860BP7/EE",
+    "fitrate": 8,
+    "groupID": "d89c8ce4-beb2-4ad3-a32e-6b4c80aa16f0",
+    "id": "fcb3b06b-d0a0-44dc-aef2-fcd1b67e02f7",
+    "images": [
+      "http://nb.scene7.com/is/image/NB/w860bp7_nb_02_i",
+      "http://nb.scene7.com/is/image/NB/w860bp7_nb_14_i"
+    ],
+    "model": "New Balance 860v7",
+    "price": 124.99,
+    "sex": 0,
+    "size": 9.5,
+    "fitrateBase": 7.9731221199035645,
+    "index": 20
+  },
+  {
+    "barcode": "",
+    "cities": null,
+    "code": "W860BP7/B",
+    "fitrate": 7.8,
+    "groupID": "d89c8ce4-beb2-4ad3-a32e-6b4c80aa16f0",
+    "id": "9c2dc0fc-c8d9-47e1-894a-e336970e865c",
+    "images": [
+      "http://nb.scene7.com/is/image/NB/w860bp7_nb_02_i",
+      "http://nb.scene7.com/is/image/NB/w860bp7_nb_14_i"
+    ],
+    "model": "New Balance 860v7",
+    "price": 124.99,
+    "sex": 0,
+    "size": 9,
+    "fitrateBase": -7.766665458679199,
+    "index": 31
+  },
+  {
+    "barcode": "",
+    "cities": null,
+    "code": "W1080BY7/EE",
+    "fitrate": 7.7,
+    "groupID": "d89c8ce4-beb2-4ad3-a32e-6b4c80aa16f0",
+    "id": "7426ca11-b9a3-4e25-80a1-95537d312b0a",
+    "images": [
+      "http://nb.scene7.com/is/image/NB/w1080by7_nb_02_i",
+      "http://nb.scene7.com/is/image/NB/w1080by7_nb_14_i"
+    ],
+    "model": "Fresh Foam 1080v7",
+    "price": 124.99,
+    "sex": 0,
+    "size": 9.5,
+    "fitrateBase": 7.685883522033691,
+    "index": 107
+  },
+  {
+    "barcode": "",
+    "cities": null,
+    "code": "W1080BY7/D",
+    "fitrate": 7.7,
+    "groupID": "d89c8ce4-beb2-4ad3-a32e-6b4c80aa16f1",
+    "id": "2c8b7663-5d4e-478f-8012-cffc55fe25c2",
+    "images": [
+      "http://nb.scene7.com/is/image/NB/w1080by7_nb_02_i",
+      "http://nb.scene7.com/is/image/NB/w1080by7_nb_14_i"
+    ],
+    "model": "Fresh Foam 1080v7",
+    "price": 149.99,
+    "sex": 0,
+    "size": 10,
+    "fitrateBase": 7.74546480178833,
+    "index": 91
+  },
+  {
+    "barcode": "",
+    "cities": null,
+    "code": "W1080BY7/B",
+    "fitrate": 7.7,
+    "groupID": "d89c8ce4-beb2-4ad3-a32e-6b4c80aa16f0",
+    "id": "7c451eff-47f3-48e2-b87b-263809956c28",
+    "images": [
+      "http://nb.scene7.com/is/image/NB/w1080by7_nb_02_i",
+      "http://nb.scene7.com/is/image/NB/w1080by7_nb_14_i"
+    ],
+    "model": "Fresh Foam 1080v7",
+    "price": 149.99,
+    "sex": 0,
+    "size": 9.5,
+    "fitrateBase": -7.743051528930664,
+    "index": 75
+  },
+  {
+    "barcode": "",
+    "cities": null,
+    "code": "W1260GO6/D",
+    "fitrate": 7.7,
+    "groupID": "d89c8ce4-beb2-4ad3-a32e-6b4c80aa16f0",
+    "id": "4364d6cf-22e9-49eb-8945-b5ddb6c87b81",
+    "images": [
+      "http://nb.scene7.com/is/image/NB/w1260go6_nb_02_i",
+      "http://nb.scene7.com/is/image/NB/w1260go6_nb_03_i "
+    ],
+    "model": "New Balance 1260v6",
+    "price": 149.99,
+    "sex": 0,
+    "size": 10,
+    "fitrateBase": 7.74546480178833,
+    "index": 57
+  },
+  {
+    "barcode": "",
+    "cities": null,
+    "code": "W1260GO6/EE",
+    "fitrate": 7.7,
+    "groupID": "d89c8ce4-beb2-4ad3-a32e-6b4c80aa16f0",
+    "id": "cfaca8de-460d-4edd-aae9-6c02376eef43",
+    "images": [
+      "http://nb.scene7.com/is/image/NB/w1260go6_nb_02_i",
+      "http://nb.scene7.com/is/image/NB/w1260go6_nb_03_i "
+    ],
+    "model": "New Balance 1260v6",
+    "price": 149.99,
+    "sex": 0,
+    "size": 9.5,
+    "fitrateBase": 7.685883522033691,
+    "index": 48
+  },
+  {
+    "barcode": "",
+    "cities": null,
+    "code": "WRUSHCG2/D",
+    "fitrate": 7.7,
+    "groupID": "d89c8ce4-beb2-4ad3-a32e-6b4c80aa16f0",
+    "id": "7c047809-adc4-43a2-8381-3ebe6cb331ef",
+    "images": [
+      "http://nb.scene7.com/is/image/NB/wrushcg2_nb_02_i",
+      "http://nb.scene7.com/is/image/NB/wrushcg2_nb_03_i"
+    ],
+    "model": "Vazee Rush v2",
+    "price": 79.99,
+    "sex": 0,
+    "size": 9,
+    "fitrateBase": -7.67245626449585,
+    "index": 44
+  },
+  {
+    "barcode": "",
+    "cities": null,
+    "code": "W1260GO6/B",
+    "fitrate": 7.7,
+    "groupID": "d89c8ce4-beb2-4ad3-a32e-6b4c80aa16f0",
+    "id": "0d9cd2ee-3fa3-42de-8575-587f0509f7e3",
+    "images": [
+      "http://nb.scene7.com/is/image/NB/w1260go6_nb_02_i",
+      "http://nb.scene7.com/is/image/NB/w1260go6_nb_03_i "
+    ],
+    "model": "New Balance 1260v6",
+    "price": 149.99,
+    "sex": 0,
+    "size": 9.5,
+    "fitrateBase": -7.743051528930664,
+    "index": 101
+  },
+  {
+    "barcode": "",
+    "cities": null,
+    "code": "WZANTWG3/D",
+    "fitrate": 7.7,
+    "groupID": "d89c8ce4-beb2-4ad3-a32e-6b4c80aa16f0",
+    "id": "3876a399-4761-4991-a7a5-911cfcb0ceee",
+    "images": [
+      "http://nb.scene7.com/is/image/NB/wzantwg3_nb_02_i",
+      "http://nb.scene7.com/is/image/NB/wzantwg3_nb_03_i"
+    ],
+    "model": "Fresh Foam Zante v3",
+    "price": 99.99,
+    "sex": 0,
+    "size": 9,
+    "fitrateBase": -7.67245626449585,
+    "index": 118
+  },
+  {
+    "barcode": "",
+    "cities": null,
+    "code": "WRUSHCG2/D",
+    "fitrate": 7.6,
+    "groupID": "d89c8ce4-beb2-4ad3-a32e-6b4c80aa16f0",
+    "id": "7c047809-adc4-43a2-8381-3ebe6cb331ef",
+    "images": [
+      "http://nb.scene7.com/is/image/NB/wrushcg2_nb_02_i",
+      "http://nb.scene7.com/is/image/NB/wrushcg2_nb_03_i"
+    ],
+    "model": "Vazee Rush v2",
+    "price": 79.99,
+    "sex": 0,
+    "size": 10.5,
+    "fitrateBase": 7.585658073425293,
+    "index": 41
+  },
+  {
+    "barcode": "",
+    "cities": null,
+    "code": "WZANTWG3/D",
+    "fitrate": 7.6,
+    "groupID": "d89c8ce4-beb2-4ad3-a32e-6b4c80aa16f0",
+    "id": "3876a399-4761-4991-a7a5-911cfcb0ceee",
+    "images": [
+      "http://nb.scene7.com/is/image/NB/wzantwg3_nb_02_i",
+      "http://nb.scene7.com/is/image/NB/wzantwg3_nb_03_i"
+    ],
+    "model": "Fresh Foam Zante v3",
+    "price": 99.99,
+    "sex": 0,
+    "size": 10.5,
+    "fitrateBase": 7.585658073425293,
+    "index": 115
+  },
+  {
+    "barcode": "",
+    "cities": null,
+    "code": "W860BP7/EE",
+    "fitrate": 7.6,
+    "groupID": "d89c8ce4-beb2-4ad3-a32e-6b4c80aa16f0",
+    "id": "fcb3b06b-d0a0-44dc-aef2-fcd1b67e02f7",
+    "images": [
+      "http://nb.scene7.com/is/image/NB/w860bp7_nb_02_i",
+      "http://nb.scene7.com/is/image/NB/w860bp7_nb_14_i"
+    ],
+    "model": "New Balance 860v7",
+    "price": 124.99,
+    "sex": 0,
+    "size": 8.5,
+    "fitrateBase": -7.630733013153076,
+    "index": 22
+  },
+  {
+    "barcode": "",
+    "cities": null,
+    "code": "W1080BY7/EE",
+    "fitrate": 7.5,
+    "groupID": "d89c8ce4-beb2-4ad3-a32e-6b4c80aa16f0",
+    "id": "7426ca11-b9a3-4e25-80a1-95537d312b0a",
+    "images": [
+      "http://nb.scene7.com/is/image/NB/w1080by7_nb_02_i",
+      "http://nb.scene7.com/is/image/NB/w1080by7_nb_14_i"
+    ],
+    "model": "Fresh Foam 1080v7",
+    "price": 124.99,
+    "sex": 0,
+    "size": 8,
+    "fitrateBase": -7.502230167388916,
+    "index": 110
+  },
+  {
+    "barcode": "",
+    "cities": null,
+    "code": "W860BP7/B",
+    "fitrate": 7.5,
+    "groupID": "d89c8ce4-beb2-4ad3-a32e-6b4c80aa16f0",
+    "id": "9c2dc0fc-c8d9-47e1-894a-e336970e865c",
+    "images": [
+      "http://nb.scene7.com/is/image/NB/w860bp7_nb_02_i",
+      "http://nb.scene7.com/is/image/NB/w860bp7_nb_14_i"
+    ],
+    "model": "New Balance 860v7",
+    "price": 124.99,
+    "sex": 0,
+    "size": 11,
+    "fitrateBase": 7.549437522888184,
+    "index": 27
+  },
+  {
+    "barcode": "",
+    "cities": null,
+    "code": "W1260GO6/EE",
+    "fitrate": 7.5,
+    "groupID": "d89c8ce4-beb2-4ad3-a32e-6b4c80aa16f0",
+    "id": "cfaca8de-460d-4edd-aae9-6c02376eef43",
+    "images": [
+      "http://nb.scene7.com/is/image/NB/w1260go6_nb_02_i",
+      "http://nb.scene7.com/is/image/NB/w1260go6_nb_03_i "
+    ],
+    "model": "New Balance 1260v6",
+    "price": 149.99,
+    "sex": 0,
+    "size": 8,
+    "fitrateBase": -7.502230167388916,
+    "index": 51
+  },
+  {
+    "barcode": "",
+    "cities": null,
+    "code": "W1260GO6/B",
+    "fitrate": 7.4,
+    "groupID": "d89c8ce4-beb2-4ad3-a32e-6b4c80aa16f0",
+    "id": "0d9cd2ee-3fa3-42de-8575-587f0509f7e3",
+    "images": [
+      "http://nb.scene7.com/is/image/NB/w1260go6_nb_02_i",
+      "http://nb.scene7.com/is/image/NB/w1260go6_nb_03_i "
+    ],
+    "model": "New Balance 1260v6",
+    "price": 149.99,
+    "sex": 0,
+    "size": 9,
+    "fitrateBase": -7.440060615539551,
+    "index": 102
+  },
+  {
+    "barcode": "",
+    "cities": null,
+    "code": "W1080BY7/B",
+    "fitrate": 7.4,
+    "groupID": "d89c8ce4-beb2-4ad3-a32e-6b4c80aa16f0",
+    "id": "7c451eff-47f3-48e2-b87b-263809956c28",
+    "images": [
+      "http://nb.scene7.com/is/image/NB/w1080by7_nb_02_i",
+      "http://nb.scene7.com/is/image/NB/w1080by7_nb_14_i"
+    ],
+    "model": "Fresh Foam 1080v7",
+    "price": 149.99,
+    "sex": 0,
+    "size": 11,
+    "fitrateBase": 7.372633934020996,
+    "index": 72
+  },
+  {
+    "barcode": "",
+    "cities": null,
+    "code": "W1260GO6/B",
+    "fitrate": 7.4,
+    "groupID": "d89c8ce4-beb2-4ad3-a32e-6b4c80aa16f0",
+    "id": "0d9cd2ee-3fa3-42de-8575-587f0509f7e3",
+    "images": [
+      "http://nb.scene7.com/is/image/NB/w1260go6_nb_02_i",
+      "http://nb.scene7.com/is/image/NB/w1260go6_nb_03_i "
+    ],
+    "model": "New Balance 1260v6",
+    "price": 149.99,
+    "sex": 0,
+    "size": 11,
+    "fitrateBase": 7.372633934020996,
+    "index": 98
+  },
+  {
+    "barcode": "",
+    "cities": null,
+    "code": "W1080BY7/B",
+    "fitrate": 7.4,
+    "groupID": "d89c8ce4-beb2-4ad3-a32e-6b4c80aa16f0",
+    "id": "7c451eff-47f3-48e2-b87b-263809956c28",
+    "images": [
+      "http://nb.scene7.com/is/image/NB/w1080by7_nb_02_i",
+      "http://nb.scene7.com/is/image/NB/w1080by7_nb_14_i"
+    ],
+    "model": "Fresh Foam 1080v7",
+    "price": 149.99,
+    "sex": 0,
+    "size": 9,
+    "fitrateBase": -7.440060615539551,
+    "index": 76
+  },
+  {
+    "barcode": "",
+    "cities": null,
+    "code": "W860BP7/EE",
+    "fitrate": 7.3,
+    "groupID": "d89c8ce4-beb2-4ad3-a32e-6b4c80aa16f0",
+    "id": "fcb3b06b-d0a0-44dc-aef2-fcd1b67e02f7",
+    "images": [
+      "http://nb.scene7.com/is/image/NB/w860bp7_nb_02_i",
+      "http://nb.scene7.com/is/image/NB/w860bp7_nb_14_i"
+    ],
+    "model": "New Balance 860v7",
+    "price": 124.99,
+    "sex": 0,
+    "size": 10,
+    "fitrateBase": 7.3495635986328125,
+    "index": 19
+  },
+  {
+    "barcode": "",
+    "cities": null,
+    "code": "W1260GO6/B",
+    "fitrate": 7.3,
+    "groupID": "d89c8ce4-beb2-4ad3-a32e-6b4c80aa16f0",
+    "id": "0d9cd2ee-3fa3-42de-8575-587f0509f7e3",
+    "images": [
+      "http://nb.scene7.com/is/image/NB/w1260go6_nb_02_i",
+      "http://nb.scene7.com/is/image/NB/w1260go6_nb_03_i "
+    ],
+    "model": "New Balance 1260v6",
+    "price": 149.99,
+    "sex": 0,
+    "size": 8.5,
+    "fitrateBase": -7.2761335372924805,
+    "index": 103
+  },
+  {
+    "barcode": "",
+    "cities": null,
+    "code": "W1080BY7/B",
+    "fitrate": 7.3,
+    "groupID": "d89c8ce4-beb2-4ad3-a32e-6b4c80aa16f0",
+    "id": "7c451eff-47f3-48e2-b87b-263809956c28",
+    "images": [
+      "http://nb.scene7.com/is/image/NB/w1080by7_nb_02_i",
+      "http://nb.scene7.com/is/image/NB/w1080by7_nb_14_i"
+    ],
+    "model": "Fresh Foam 1080v7",
+    "price": 149.99,
+    "sex": 0,
+    "size": 8.5,
+    "fitrateBase": -7.2761335372924805,
+    "index": 77
+  },
+  {
+    "barcode": "",
+    "cities": null,
+    "code": "W860BP7/D",
+    "fitrate": 7.3,
+    "groupID": "d89c8ce4-beb2-4ad3-a32e-6b4c80aa16f0",
+    "id": "60a21f25-33ee-4bf8-ba38-298ab1e3dfaa",
+    "images": [
+      "http://nb.scene7.com/is/image/NB/w860bp7_nb_02_i",
+      "http://nb.scene7.com/is/image/NB/w860bp7_nb_14_i"
+    ],
+    "model": "New Balance 860v7",
+    "price": 124.99,
+    "sex": 0,
+    "size": 10.5,
+    "fitrateBase": 7.3222126960754395,
+    "index": 64
+  },
+  {
+    "barcode": "",
+    "cities": null,
+    "code": "WZANTWG3/B",
+    "fitrate": 7.2,
+    "groupID": "d89c8ce4-beb2-4ad3-a32e-6b4c80aa16f0",
+    "id": "5e404dde-6154-435f-8003-cce0b1f8e9c2",
+    "images": [
+      "http://nb.scene7.com/is/image/NB/wzantwg3_nb_02_i",
+      "http://nb.scene7.com/is/image/NB/wzantwg3_nb_03_i"
+    ],
+    "model": "Fresh Foam Zante v3",
+    "price": 99.99,
+    "sex": 0,
+    "size": 11,
+    "fitrateBase": 7.201586723327637,
+    "index": 35
+  },
+  {
+    "barcode": "",
+    "cities": null,
+    "code": "WZANTWG3/B",
+    "fitrate": 7.2,
+    "groupID": "d89c8ce4-beb2-4ad3-a32e-6b4c80aa16f0",
+    "id": "5e404dde-6154-435f-8003-cce0b1f8e9c2",
+    "images": [
+      "http://nb.scene7.com/is/image/NB/wzantwg3_nb_02_i",
+      "http://nb.scene7.com/is/image/NB/wzantwg3_nb_03_i"
+    ],
+    "model": "Fresh Foam Zante v3",
+    "price": 99.99,
+    "sex": 0,
+    "size": 11.5,
+    "fitrateBase": 7.215765953063965,
+    "index": 34
+  },
+  {
+    "barcode": "",
+    "cities": null,
+    "code": "W1260GO6/D",
+    "fitrate": 7.2,
+    "groupID": "d89c8ce4-beb2-4ad3-a32e-6b4c80aa16f0",
+    "id": "4364d6cf-22e9-49eb-8945-b5ddb6c87b81",
+    "images": [
+      "http://nb.scene7.com/is/image/NB/w1260go6_nb_02_i",
+      "http://nb.scene7.com/is/image/NB/w1260go6_nb_03_i "
+    ],
+    "model": "New Balance 1260v6",
+    "price": 149.99,
+    "sex": 0,
+    "size": 8,
+    "fitrateBase": -7.18764066696167,
+    "index": 61
+  },
+  {
+    "barcode": "",
+    "cities": null,
+    "code": "WRUSHCG2/B",
+    "fitrate": 7.2,
+    "groupID": "d89c8ce4-beb2-4ad3-a32e-6b4c80aa16f0",
+    "id": "b1b2e7a0-d463-44aa-a3b1-db2c0a8e8c4b",
+    "images": [
+      "http://nb.scene7.com/is/image/NB/wrushcg2_nb_02_i",
+      "http://nb.scene7.com/is/image/NB/wrushcg2_nb_03_i"
+    ],
+    "model": "Vazee Rush v2",
+    "price": 79.99,
+    "sex": 0,
+    "size": 11,
+    "fitrateBase": 7.201586723327637,
+    "index": 13
+  },
+  {
+    "barcode": "",
+    "cities": null,
+    "code": "WRUSHCG2/B",
+    "fitrate": 7.2,
+    "groupID": "d89c8ce4-beb2-4ad3-a32e-6b4c80aa16f0",
+    "id": "b1b2e7a0-d463-44aa-a3b1-db2c0a8e8c4b",
+    "images": [
+      "http://nb.scene7.com/is/image/NB/wrushcg2_nb_02_i",
+      "http://nb.scene7.com/is/image/NB/wrushcg2_nb_03_i"
+    ],
+    "model": "Vazee Rush v2",
+    "price": 79.99,
+    "sex": 0,
+    "size": 11.5,
+    "fitrateBase": 7.215765953063965,
+    "index": 12
+  },
+  {
+    "barcode": "",
+    "cities": null,
+    "code": "W1080BY7/D",
+    "fitrate": 7.2,
+    "groupID": "d89c8ce4-beb2-4ad3-a32e-6b4c80aa16f1",
+    "id": "2c8b7663-5d4e-478f-8012-cffc55fe25c2",
+    "images": [
+      "http://nb.scene7.com/is/image/NB/w1080by7_nb_02_i",
+      "http://nb.scene7.com/is/image/NB/w1080by7_nb_14_i"
+    ],
+    "model": "Fresh Foam 1080v7",
+    "price": 149.99,
+    "sex": 0,
+    "size": 8,
+    "fitrateBase": -7.18764066696167,
+    "index": 95
+  },
+  {
+    "barcode": "",
+    "cities": null,
+    "code": "W1260GO6/D",
+    "fitrate": 7.1,
+    "groupID": "d89c8ce4-beb2-4ad3-a32e-6b4c80aa16f0",
+    "id": "4364d6cf-22e9-49eb-8945-b5ddb6c87b81",
+    "images": [
+      "http://nb.scene7.com/is/image/NB/w1260go6_nb_02_i",
+      "http://nb.scene7.com/is/image/NB/w1260go6_nb_03_i "
+    ],
+    "model": "New Balance 1260v6",
+    "price": 149.99,
+    "sex": 0,
+    "size": 10.5,
+    "fitrateBase": 7.114769458770752,
+    "index": 56
+  },
+  {
+    "barcode": "",
+    "cities": null,
+    "code": "W1080BY7/AA",
+    "fitrate": 7.1,
+    "groupID": "d89c8ce4-beb2-4ad3-a32e-6b4c80aa16f0",
+    "id": "42d0aacd-26fe-4f12-96d7-44aaad660ef6",
+    "images": [
+      "http://nb.scene7.com/is/image/NB/w1080by7_nb_02_i",
+      "http://nb.scene7.com/is/image/NB/w1080by7_nb_14_i"
+    ],
+    "model": "Fresh Foam 1080v7",
+    "price": 149.99,
+    "sex": 0,
+    "size": 12,
+    "fitrateBase": 7.13866662979126,
+    "index": 80
+  },
+  {
+    "barcode": "",
+    "cities": null,
+    "code": "W1080BY7/EE",
+    "fitrate": 7.1,
+    "groupID": "d89c8ce4-beb2-4ad3-a32e-6b4c80aa16f0",
+    "id": "7426ca11-b9a3-4e25-80a1-95537d312b0a",
+    "images": [
+      "http://nb.scene7.com/is/image/NB/w1080by7_nb_02_i",
+      "http://nb.scene7.com/is/image/NB/w1080by7_nb_14_i"
+    ],
+    "model": "Fresh Foam 1080v7",
+    "price": 124.99,
+    "sex": 0,
+    "size": 10,
+    "fitrateBase": 7.079946041107178,
+    "index": 106
+  },
+  {
+    "barcode": "",
+    "cities": null,
+    "code": "W1260GO6/EE",
+    "fitrate": 7.1,
+    "groupID": "d89c8ce4-beb2-4ad3-a32e-6b4c80aa16f0",
+    "id": "cfaca8de-460d-4edd-aae9-6c02376eef43",
+    "images": [
+      "http://nb.scene7.com/is/image/NB/w1260go6_nb_02_i",
+      "http://nb.scene7.com/is/image/NB/w1260go6_nb_03_i "
+    ],
+    "model": "New Balance 1260v6",
+    "price": 149.99,
+    "sex": 0,
+    "size": 10,
+    "fitrateBase": 7.079946041107178,
+    "index": 47
+  },
+  {
+    "barcode": "",
+    "cities": null,
+    "code": "W1080BY7/D",
+    "fitrate": 7.1,
+    "groupID": "d89c8ce4-beb2-4ad3-a32e-6b4c80aa16f1",
+    "id": "2c8b7663-5d4e-478f-8012-cffc55fe25c2",
+    "images": [
+      "http://nb.scene7.com/is/image/NB/w1080by7_nb_02_i",
+      "http://nb.scene7.com/is/image/NB/w1080by7_nb_14_i"
+    ],
+    "model": "Fresh Foam 1080v7",
+    "price": 149.99,
+    "sex": 0,
+    "size": 10.5,
+    "fitrateBase": 7.114769458770752,
+    "index": 90
+  },
+  {
+    "barcode": "",
+    "cities": null,
+    "code": "W1260GO6/AA",
+    "fitrate": 7.1,
+    "groupID": "d89c8ce4-beb2-4ad3-a32e-6b4c80aa16f0",
+    "id": "c8e9970a-58a2-48b9-8eb2-c3582c919978",
+    "images": [
+      "http://nb.scene7.com/is/image/NB/w1260go6_nb_02_i",
+      "http://nb.scene7.com/is/image/NB/w1260go6_nb_03_i "
+    ],
+    "model": "New Balance 1260v6",
+    "price": 149.99,
+    "sex": 0,
+    "size": 12,
+    "fitrateBase": 7.13866662979126,
+    "index": 3
+  },
+  {
+    "barcode": "",
+    "cities": null,
+    "code": "W860BP7/B",
+    "fitrate": 6.9,
+    "groupID": "d89c8ce4-beb2-4ad3-a32e-6b4c80aa16f0",
+    "id": "9c2dc0fc-c8d9-47e1-894a-e336970e865c",
+    "images": [
+      "http://nb.scene7.com/is/image/NB/w860bp7_nb_02_i",
+      "http://nb.scene7.com/is/image/NB/w860bp7_nb_14_i"
+    ],
+    "model": "New Balance 860v7",
+    "price": 124.99,
+    "sex": 0,
+    "size": 11.5,
+    "fitrateBase": 6.906331539154053,
+    "index": 26
+  },
+  {
+    "barcode": "",
+    "cities": null,
+    "code": "W1260GO6/B",
+    "fitrate": 6.8,
+    "groupID": "d89c8ce4-beb2-4ad3-a32e-6b4c80aa16f0",
+    "id": "0d9cd2ee-3fa3-42de-8575-587f0509f7e3",
+    "images": [
+      "http://nb.scene7.com/is/image/NB/w1260go6_nb_02_i",
+      "http://nb.scene7.com/is/image/NB/w1260go6_nb_03_i "
+    ],
+    "model": "New Balance 1260v6",
+    "price": 149.99,
+    "sex": 0,
+    "size": 11.5,
+    "fitrateBase": 6.758057594299316,
+    "index": 97
+  },
+  {
+    "barcode": "",
+    "cities": null,
+    "code": "W1080BY7/B",
+    "fitrate": 6.8,
+    "groupID": "d89c8ce4-beb2-4ad3-a32e-6b4c80aa16f0",
+    "id": "7c451eff-47f3-48e2-b87b-263809956c28",
+    "images": [
+      "http://nb.scene7.com/is/image/NB/w1080by7_nb_02_i",
+      "http://nb.scene7.com/is/image/NB/w1080by7_nb_14_i"
+    ],
+    "model": "Fresh Foam 1080v7",
+    "price": 149.99,
+    "sex": 0,
+    "size": 11.5,
+    "fitrateBase": 6.758057594299316,
+    "index": 71
+  },
+  {
+    "barcode": "",
+    "cities": null,
+    "code": "WRUSHCG2/D",
+    "fitrate": 6.8,
+    "groupID": "d89c8ce4-beb2-4ad3-a32e-6b4c80aa16f0",
+    "id": "7c047809-adc4-43a2-8381-3ebe6cb331ef",
+    "images": [
+      "http://nb.scene7.com/is/image/NB/wrushcg2_nb_02_i",
+      "http://nb.scene7.com/is/image/NB/wrushcg2_nb_03_i"
+    ],
+    "model": "Vazee Rush v2",
+    "price": 79.99,
+    "sex": 0,
+    "size": 11,
+    "fitrateBase": 6.769375801086426,
+    "index": 40
+  },
+  {
+    "barcode": "",
+    "cities": null,
+    "code": "WZANTWG3/D",
+    "fitrate": 6.8,
+    "groupID": "d89c8ce4-beb2-4ad3-a32e-6b4c80aa16f0",
+    "id": "3876a399-4761-4991-a7a5-911cfcb0ceee",
+    "images": [
+      "http://nb.scene7.com/is/image/NB/wzantwg3_nb_02_i",
+      "http://nb.scene7.com/is/image/NB/wzantwg3_nb_03_i"
+    ],
+    "model": "Fresh Foam Zante v3",
+    "price": 99.99,
+    "sex": 0,
+    "size": 11,
+    "fitrateBase": 6.769375801086426,
+    "index": 114
+  },
+  {
+    "barcode": "",
+    "cities": null,
+    "code": "W860BP7/EE",
+    "fitrate": 6.7,
+    "groupID": "d89c8ce4-beb2-4ad3-a32e-6b4c80aa16f0",
+    "id": "fcb3b06b-d0a0-44dc-aef2-fcd1b67e02f7",
+    "images": [
+      "http://nb.scene7.com/is/image/NB/w860bp7_nb_02_i",
+      "http://nb.scene7.com/is/image/NB/w860bp7_nb_14_i"
+    ],
+    "model": "New Balance 860v7",
+    "price": 124.99,
+    "sex": 0,
+    "size": 10.5,
+    "fitrateBase": 6.7111711502075195,
+    "index": 18
+  },
+  {
+    "barcode": "",
+    "cities": null,
+    "code": "W860BP7/EE",
+    "fitrate": 6.7,
+    "groupID": "d89c8ce4-beb2-4ad3-a32e-6b4c80aa16f0",
+    "id": "fcb3b06b-d0a0-44dc-aef2-fcd1b67e02f7",
+    "images": [
+      "http://nb.scene7.com/is/image/NB/w860bp7_nb_02_i",
+      "http://nb.scene7.com/is/image/NB/w860bp7_nb_14_i"
+    ],
+    "model": "New Balance 860v7",
+    "price": 124.99,
+    "sex": 0,
+    "size": 8,
+    "fitrateBase": -6.7319254875183105,
+    "index": 23
+  },
+  {
+    "barcode": "",
+    "cities": null,
+    "code": "W860BP7/D",
+    "fitrate": 6.7,
+    "groupID": "d89c8ce4-beb2-4ad3-a32e-6b4c80aa16f0",
+    "id": "60a21f25-33ee-4bf8-ba38-298ab1e3dfaa",
+    "images": [
+      "http://nb.scene7.com/is/image/NB/w860bp7_nb_02_i",
+      "http://nb.scene7.com/is/image/NB/w860bp7_nb_14_i"
+    ],
+    "model": "New Balance 860v7",
+    "price": 124.99,
+    "sex": 0,
+    "size": 11,
+    "fitrateBase": 6.6892547607421875,
+    "index": 63
+  },
+  {
+    "barcode": "",
+    "cities": null,
+    "code": "W1260GO6/EE",
+    "fitrate": 6.7,
+    "groupID": "d89c8ce4-beb2-4ad3-a32e-6b4c80aa16f0",
+    "id": "cfaca8de-460d-4edd-aae9-6c02376eef43",
+    "images": [
+      "http://nb.scene7.com/is/image/NB/w1260go6_nb_02_i",
+      "http://nb.scene7.com/is/image/NB/w1260go6_nb_03_i "
+    ],
+    "model": "New Balance 1260v6",
+    "price": 149.99,
+    "sex": 0,
+    "size": 7.5,
+    "fitrateBase": -6.661776065826416,
+    "index": 52
+  },
+  {
+    "barcode": "",
+    "cities": null,
+    "code": "WRUSHCG2/B",
+    "fitrate": 6.7,
+    "groupID": "d89c8ce4-beb2-4ad3-a32e-6b4c80aa16f0",
+    "id": "b1b2e7a0-d463-44aa-a3b1-db2c0a8e8c4b",
+    "images": [
+      "http://nb.scene7.com/is/image/NB/wrushcg2_nb_02_i",
+      "http://nb.scene7.com/is/image/NB/wrushcg2_nb_03_i"
+    ],
+    "model": "Vazee Rush v2",
+    "price": 79.99,
+    "sex": 0,
+    "size": 10.5,
+    "fitrateBase": 6.7044878005981445,
+    "index": 14
+  },
+  {
+    "barcode": "",
+    "cities": null,
+    "code": "WZANTWG3/B",
+    "fitrate": 6.7,
+    "groupID": "d89c8ce4-beb2-4ad3-a32e-6b4c80aa16f0",
+    "id": "5e404dde-6154-435f-8003-cce0b1f8e9c2",
+    "images": [
+      "http://nb.scene7.com/is/image/NB/wzantwg3_nb_02_i",
+      "http://nb.scene7.com/is/image/NB/wzantwg3_nb_03_i"
+    ],
+    "model": "Fresh Foam Zante v3",
+    "price": 99.99,
+    "sex": 0,
+    "size": 10.5,
+    "fitrateBase": 6.7044878005981445,
+    "index": 36
+  },
+  {
+    "barcode": "",
+    "cities": null,
+    "code": "W1080BY7/EE",
+    "fitrate": 6.7,
+    "groupID": "d89c8ce4-beb2-4ad3-a32e-6b4c80aa16f0",
+    "id": "7426ca11-b9a3-4e25-80a1-95537d312b0a",
+    "images": [
+      "http://nb.scene7.com/is/image/NB/w1080by7_nb_02_i",
+      "http://nb.scene7.com/is/image/NB/w1080by7_nb_14_i"
+    ],
+    "model": "Fresh Foam 1080v7",
+    "price": 124.99,
+    "sex": 0,
+    "size": 7.5,
+    "fitrateBase": -6.661776065826416,
+    "index": 111
+  },
+  {
+    "barcode": "",
+    "cities": null,
+    "code": "W1080BY7/AA",
+    "fitrate": 6.6,
+    "groupID": "d89c8ce4-beb2-4ad3-a32e-6b4c80aa16f0",
+    "id": "42d0aacd-26fe-4f12-96d7-44aaad660ef6",
+    "images": [
+      "http://nb.scene7.com/is/image/NB/w1080by7_nb_02_i",
+      "http://nb.scene7.com/is/image/NB/w1080by7_nb_14_i"
+    ],
+    "model": "Fresh Foam 1080v7",
+    "price": 149.99,
+    "sex": 0,
+    "size": 12.5,
+    "fitrateBase": 6.5832672119140625,
+    "index": 79
+  },
+  {
+    "barcode": "",
+    "cities": null,
+    "code": "W1260GO6/AA",
+    "fitrate": 6.6,
+    "groupID": "d89c8ce4-beb2-4ad3-a32e-6b4c80aa16f0",
+    "id": "c8e9970a-58a2-48b9-8eb2-c3582c919978",
+    "images": [
+      "http://nb.scene7.com/is/image/NB/w1260go6_nb_02_i",
+      "http://nb.scene7.com/is/image/NB/w1260go6_nb_03_i "
+    ],
+    "model": "New Balance 1260v6",
+    "price": 149.99,
+    "sex": 0,
+    "size": 11.5,
+    "fitrateBase": 6.587479591369629,
+    "index": 4
+  },
+  {
+    "barcode": "",
+    "cities": null,
+    "code": "W1080BY7/AA",
+    "fitrate": 6.6,
+    "groupID": "d89c8ce4-beb2-4ad3-a32e-6b4c80aa16f0",
+    "id": "42d0aacd-26fe-4f12-96d7-44aaad660ef6",
+    "images": [
+      "http://nb.scene7.com/is/image/NB/w1080by7_nb_02_i",
+      "http://nb.scene7.com/is/image/NB/w1080by7_nb_14_i"
+    ],
+    "model": "Fresh Foam 1080v7",
+    "price": 149.99,
+    "sex": 0,
+    "size": 11.5,
+    "fitrateBase": 6.587479591369629,
+    "index": 81
+  },
+  {
+    "barcode": "",
+    "cities": null,
+    "code": "WRUSHCG2/B",
+    "fitrate": 6.6,
+    "groupID": "d89c8ce4-beb2-4ad3-a32e-6b4c80aa16f0",
+    "id": "b1b2e7a0-d463-44aa-a3b1-db2c0a8e8c4b",
+    "images": [
+      "http://nb.scene7.com/is/image/NB/wrushcg2_nb_02_i",
+      "http://nb.scene7.com/is/image/NB/wrushcg2_nb_03_i"
+    ],
+    "model": "Vazee Rush v2",
+    "price": 79.99,
+    "sex": 0,
+    "size": 9.5,
+    "fitrateBase": -6.567625999450684,
+    "index": 16
+  },
+  {
+    "barcode": "",
+    "cities": null,
+    "code": "W1260GO6/AA",
+    "fitrate": 6.6,
+    "groupID": "d89c8ce4-beb2-4ad3-a32e-6b4c80aa16f0",
+    "id": "c8e9970a-58a2-48b9-8eb2-c3582c919978",
+    "images": [
+      "http://nb.scene7.com/is/image/NB/w1260go6_nb_02_i",
+      "http://nb.scene7.com/is/image/NB/w1260go6_nb_03_i "
+    ],
+    "model": "New Balance 1260v6",
+    "price": 149.99,
+    "sex": 0,
+    "size": 12.5,
+    "fitrateBase": 6.5832672119140625,
+    "index": 2
+  },
+  {
+    "barcode": "",
+    "cities": null,
+    "code": "WZANTWG3/B",
+    "fitrate": 6.6,
+    "groupID": "d89c8ce4-beb2-4ad3-a32e-6b4c80aa16f0",
+    "id": "5e404dde-6154-435f-8003-cce0b1f8e9c2",
+    "images": [
+      "http://nb.scene7.com/is/image/NB/wzantwg3_nb_02_i",
+      "http://nb.scene7.com/is/image/NB/wzantwg3_nb_03_i"
+    ],
+    "model": "Fresh Foam Zante v3",
+    "price": 99.99,
+    "sex": 0,
+    "size": 9.5,
+    "fitrateBase": -6.567625999450684,
+    "index": 38
+  },
+  {
+    "barcode": "",
+    "cities": null,
+    "code": "W1080BY7/AA",
+    "fitrate": 6.5,
+    "groupID": "d89c8ce4-beb2-4ad3-a32e-6b4c80aa16f0",
+    "id": "42d0aacd-26fe-4f12-96d7-44aaad660ef6",
+    "images": [
+      "http://nb.scene7.com/is/image/NB/w1080by7_nb_02_i",
+      "http://nb.scene7.com/is/image/NB/w1080by7_nb_14_i"
+    ],
+    "model": "Fresh Foam 1080v7",
+    "price": 149.99,
+    "sex": 0,
+    "size": 8.5,
+    "fitrateBase": -6.510001182556152,
+    "index": 87
+  },
+  {
+    "barcode": "",
+    "cities": null,
+    "code": "WZANTWG3/B",
+    "fitrate": 6.5,
+    "groupID": "d89c8ce4-beb2-4ad3-a32e-6b4c80aa16f0",
+    "id": "5e404dde-6154-435f-8003-cce0b1f8e9c2",
+    "images": [
+      "http://nb.scene7.com/is/image/NB/wzantwg3_nb_02_i",
+      "http://nb.scene7.com/is/image/NB/wzantwg3_nb_03_i"
+    ],
+    "model": "Fresh Foam Zante v3",
+    "price": 99.99,
+    "sex": 0,
+    "size": 10,
+    "fitrateBase": -6.504308223724365,
+    "index": 37
+  },
+  {
+    "barcode": "",
+    "cities": null,
+    "code": "W1080BY7/D",
+    "fitrate": 6.5,
+    "groupID": "d89c8ce4-beb2-4ad3-a32e-6b4c80aa16f1",
+    "id": "2c8b7663-5d4e-478f-8012-cffc55fe25c2",
+    "images": [
+      "http://nb.scene7.com/is/image/NB/w1080by7_nb_02_i",
+      "http://nb.scene7.com/is/image/NB/w1080by7_nb_14_i"
+    ],
+    "model": "Fresh Foam 1080v7",
+    "price": 149.99,
+    "sex": 0,
+    "size": 11,
+    "fitrateBase": 6.512451171875,
+    "index": 89
+  },
+  {
+    "barcode": "",
+    "cities": null,
+    "code": "W1260GO6/EE",
+    "fitrate": 6.5,
+    "groupID": "d89c8ce4-beb2-4ad3-a32e-6b4c80aa16f0",
+    "id": "cfaca8de-460d-4edd-aae9-6c02376eef43",
+    "images": [
+      "http://nb.scene7.com/is/image/NB/w1260go6_nb_02_i",
+      "http://nb.scene7.com/is/image/NB/w1260go6_nb_03_i "
+    ],
+    "model": "New Balance 1260v6",
+    "price": 149.99,
+    "sex": 0,
+    "size": 10.5,
+    "fitrateBase": 6.503727912902832,
+    "index": 46
+  },
+  {
+    "barcode": "",
+    "cities": null,
+    "code": "WZANTWG3/B",
+    "fitrate": 6.5,
+    "groupID": "d89c8ce4-beb2-4ad3-a32e-6b4c80aa16f0",
+    "id": "5e404dde-6154-435f-8003-cce0b1f8e9c2",
+    "images": [
+      "http://nb.scene7.com/is/image/NB/wzantwg3_nb_02_i",
+      "http://nb.scene7.com/is/image/NB/wzantwg3_nb_03_i"
+    ],
+    "model": "Fresh Foam Zante v3",
+    "price": 99.99,
+    "sex": 0,
+    "size": 12,
+    "fitrateBase": 6.456841945648193,
+    "index": 33
+  },
+  {
+    "barcode": "",
+    "cities": null,
+    "code": "WRUSHCG2/B",
+    "fitrate": 6.5,
+    "groupID": "d89c8ce4-beb2-4ad3-a32e-6b4c80aa16f0",
+    "id": "b1b2e7a0-d463-44aa-a3b1-db2c0a8e8c4b",
+    "images": [
+      "http://nb.scene7.com/is/image/NB/wrushcg2_nb_02_i",
+      "http://nb.scene7.com/is/image/NB/wrushcg2_nb_03_i"
+    ],
+    "model": "Vazee Rush v2",
+    "price": 79.99,
+    "sex": 0,
+    "size": 10,
+    "fitrateBase": -6.504308223724365,
+    "index": 15
+  },
+  {
+    "barcode": "",
+    "cities": null,
+    "code": "W1080BY7/EE",
+    "fitrate": 6.5,
+    "groupID": "d89c8ce4-beb2-4ad3-a32e-6b4c80aa16f0",
+    "id": "7426ca11-b9a3-4e25-80a1-95537d312b0a",
+    "images": [
+      "http://nb.scene7.com/is/image/NB/w1080by7_nb_02_i",
+      "http://nb.scene7.com/is/image/NB/w1080by7_nb_14_i"
+    ],
+    "model": "Fresh Foam 1080v7",
+    "price": 124.99,
+    "sex": 0,
+    "size": 10.5,
+    "fitrateBase": 6.503727912902832,
+    "index": 105
+  },
+  {
+    "barcode": "",
+    "cities": null,
+    "code": "WRUSHCG2/B",
+    "fitrate": 6.5,
+    "groupID": "d89c8ce4-beb2-4ad3-a32e-6b4c80aa16f0",
+    "id": "b1b2e7a0-d463-44aa-a3b1-db2c0a8e8c4b",
+    "images": [
+      "http://nb.scene7.com/is/image/NB/wrushcg2_nb_02_i",
+      "http://nb.scene7.com/is/image/NB/wrushcg2_nb_03_i"
+    ],
+    "model": "Vazee Rush v2",
+    "price": 79.99,
+    "sex": 0,
+    "size": 12,
+    "fitrateBase": 6.456841945648193,
+    "index": 11
+  },
+  {
+    "barcode": "",
+    "cities": null,
+    "code": "W1260GO6/D",
+    "fitrate": 6.5,
+    "groupID": "d89c8ce4-beb2-4ad3-a32e-6b4c80aa16f0",
+    "id": "4364d6cf-22e9-49eb-8945-b5ddb6c87b81",
+    "images": [
+      "http://nb.scene7.com/is/image/NB/w1260go6_nb_02_i",
+      "http://nb.scene7.com/is/image/NB/w1260go6_nb_03_i "
+    ],
+    "model": "New Balance 1260v6",
+    "price": 149.99,
+    "sex": 0,
+    "size": 11,
+    "fitrateBase": 6.512451171875,
+    "index": 55
+  },
+  {
+    "barcode": "",
+    "cities": null,
+    "code": "W1260GO6/AA",
+    "fitrate": 6.5,
+    "groupID": "d89c8ce4-beb2-4ad3-a32e-6b4c80aa16f0",
+    "id": "c8e9970a-58a2-48b9-8eb2-c3582c919978",
+    "images": [
+      "http://nb.scene7.com/is/image/NB/w1260go6_nb_02_i",
+      "http://nb.scene7.com/is/image/NB/w1260go6_nb_03_i "
+    ],
+    "model": "New Balance 1260v6",
+    "price": 149.99,
+    "sex": 0,
+    "size": 8.5,
+    "fitrateBase": -6.510001182556152,
+    "index": 10
+  },
+  {
+    "barcode": "",
+    "cities": null,
+    "code": "W1260GO6/AA",
+    "fitrate": 6.4,
+    "groupID": "d89c8ce4-beb2-4ad3-a32e-6b4c80aa16f0",
+    "id": "c8e9970a-58a2-48b9-8eb2-c3582c919978",
+    "images": [
+      "http://nb.scene7.com/is/image/NB/w1260go6_nb_02_i",
+      "http://nb.scene7.com/is/image/NB/w1260go6_nb_03_i "
+    ],
+    "model": "New Balance 1260v6",
+    "price": 149.99,
+    "sex": 0,
+    "size": 9,
+    "fitrateBase": -6.3579325675964355,
+    "index": 9
+  },
+  {
+    "barcode": "",
+    "cities": null,
+    "code": "W860BP7/D",
+    "fitrate": 6.4,
+    "groupID": "d89c8ce4-beb2-4ad3-a32e-6b4c80aa16f0",
+    "id": "60a21f25-33ee-4bf8-ba38-298ab1e3dfaa",
+    "images": [
+      "http://nb.scene7.com/is/image/NB/w860bp7_nb_02_i",
+      "http://nb.scene7.com/is/image/NB/w860bp7_nb_14_i"
+    ],
+    "model": "New Balance 860v7",
+    "price": 124.99,
+    "sex": 0,
+    "size": 8,
+    "fitrateBase": -6.417336463928223,
+    "index": 69
+  },
+  {
+    "barcode": "",
+    "cities": null,
+    "code": "W1080BY7/AA",
+    "fitrate": 6.4,
+    "groupID": "d89c8ce4-beb2-4ad3-a32e-6b4c80aa16f0",
+    "id": "42d0aacd-26fe-4f12-96d7-44aaad660ef6",
+    "images": [
+      "http://nb.scene7.com/is/image/NB/w1080by7_nb_02_i",
+      "http://nb.scene7.com/is/image/NB/w1080by7_nb_14_i"
+    ],
+    "model": "Fresh Foam 1080v7",
+    "price": 149.99,
+    "sex": 0,
+    "size": 9,
+    "fitrateBase": -6.3579325675964355,
+    "index": 86
+  },
+  {
+    "barcode": "",
+    "cities": null,
+    "code": "W860BP7/B",
+    "fitrate": 6.3,
+    "groupID": "d89c8ce4-beb2-4ad3-a32e-6b4c80aa16f0",
+    "id": "9c2dc0fc-c8d9-47e1-894a-e336970e865c",
+    "images": [
+      "http://nb.scene7.com/is/image/NB/w860bp7_nb_02_i",
+      "http://nb.scene7.com/is/image/NB/w860bp7_nb_14_i"
+    ],
+    "model": "New Balance 860v7",
+    "price": 124.99,
+    "sex": 0,
+    "size": 12,
+    "fitrateBase": 6.320515155792236,
+    "index": 25
+  },
+  {
+    "barcode": "",
+    "cities": null,
+    "code": "W1260GO6/AA",
+    "fitrate": 6.3,
+    "groupID": "d89c8ce4-beb2-4ad3-a32e-6b4c80aa16f0",
+    "id": "c8e9970a-58a2-48b9-8eb2-c3582c919978",
+    "images": [
+      "http://nb.scene7.com/is/image/NB/w1260go6_nb_02_i",
+      "http://nb.scene7.com/is/image/NB/w1260go6_nb_03_i "
+    ],
+    "model": "New Balance 1260v6",
+    "price": 149.99,
+    "sex": 0,
+    "size": 9.5,
+    "fitrateBase": -6.267694473266602,
+    "index": 8
+  },
+  {
+    "barcode": "",
+    "cities": null,
+    "code": "W1080BY7/AA",
+    "fitrate": 6.3,
+    "groupID": "d89c8ce4-beb2-4ad3-a32e-6b4c80aa16f0",
+    "id": "42d0aacd-26fe-4f12-96d7-44aaad660ef6",
+    "images": [
+      "http://nb.scene7.com/is/image/NB/w1080by7_nb_02_i",
+      "http://nb.scene7.com/is/image/NB/w1080by7_nb_14_i"
+    ],
+    "model": "Fresh Foam 1080v7",
+    "price": 149.99,
+    "sex": 0,
+    "size": 11,
+    "fitrateBase": 6.2748284339904785,
+    "index": 82
+  },
+  {
+    "barcode": "",
+    "cities": null,
+    "code": "W1260GO6/AA",
+    "fitrate": 6.3,
+    "groupID": "d89c8ce4-beb2-4ad3-a32e-6b4c80aa16f0",
+    "id": "c8e9970a-58a2-48b9-8eb2-c3582c919978",
+    "images": [
+      "http://nb.scene7.com/is/image/NB/w1260go6_nb_02_i",
+      "http://nb.scene7.com/is/image/NB/w1260go6_nb_03_i "
+    ],
+    "model": "New Balance 1260v6",
+    "price": 149.99,
+    "sex": 0,
+    "size": 11,
+    "fitrateBase": 6.2748284339904785,
+    "index": 5
+  },
+  {
+    "barcode": "",
+    "cities": null,
+    "code": "W1080BY7/AA",
+    "fitrate": 6.3,
+    "groupID": "d89c8ce4-beb2-4ad3-a32e-6b4c80aa16f0",
+    "id": "42d0aacd-26fe-4f12-96d7-44aaad660ef6",
+    "images": [
+      "http://nb.scene7.com/is/image/NB/w1080by7_nb_02_i",
+      "http://nb.scene7.com/is/image/NB/w1080by7_nb_14_i"
+    ],
+    "model": "Fresh Foam 1080v7",
+    "price": 149.99,
+    "sex": 0,
+    "size": 9.5,
+    "fitrateBase": -6.267694473266602,
+    "index": 85
+  },
+  {
+    "barcode": "",
+    "cities": null,
+    "code": "W860BP7/EE",
+    "fitrate": 6.2,
+    "groupID": "d89c8ce4-beb2-4ad3-a32e-6b4c80aa16f0",
+    "id": "fcb3b06b-d0a0-44dc-aef2-fcd1b67e02f7",
+    "images": [
+      "http://nb.scene7.com/is/image/NB/w860bp7_nb_02_i",
+      "http://nb.scene7.com/is/image/NB/w860bp7_nb_14_i"
+    ],
+    "model": "New Balance 860v7",
+    "price": 124.99,
+    "sex": 0,
+    "size": 7.5,
+    "fitrateBase": -6.16294002532959,
+    "index": 24
+  },
+  {
+    "barcode": "",
+    "cities": null,
+    "code": "W1260GO6/B",
+    "fitrate": 6.2,
+    "groupID": "d89c8ce4-beb2-4ad3-a32e-6b4c80aa16f0",
+    "id": "0d9cd2ee-3fa3-42de-8575-587f0509f7e3",
+    "images": [
+      "http://nb.scene7.com/is/image/NB/w1260go6_nb_02_i",
+      "http://nb.scene7.com/is/image/NB/w1260go6_nb_03_i "
+    ],
+    "model": "New Balance 1260v6",
+    "price": 149.99,
+    "sex": 0,
+    "size": 12,
+    "fitrateBase": 6.197494029998779,
+    "index": 96
+  },
+  {
+    "barcode": "",
+    "cities": null,
+    "code": "W1080BY7/B",
+    "fitrate": 6.2,
+    "groupID": "d89c8ce4-beb2-4ad3-a32e-6b4c80aa16f0",
+    "id": "7c451eff-47f3-48e2-b87b-263809956c28",
+    "images": [
+      "http://nb.scene7.com/is/image/NB/w1080by7_nb_02_i",
+      "http://nb.scene7.com/is/image/NB/w1080by7_nb_14_i"
+    ],
+    "model": "Fresh Foam 1080v7",
+    "price": 149.99,
+    "sex": 0,
+    "size": 12,
+    "fitrateBase": 6.197494029998779,
+    "index": 70
+  },
+  {
+    "barcode": "",
+    "cities": null,
+    "code": "W860BP7/B",
+    "fitrate": 6.2,
+    "groupID": "d89c8ce4-beb2-4ad3-a32e-6b4c80aa16f0",
+    "id": "9c2dc0fc-c8d9-47e1-894a-e336970e865c",
+    "images": [
+      "http://nb.scene7.com/is/image/NB/w860bp7_nb_02_i",
+      "http://nb.scene7.com/is/image/NB/w860bp7_nb_14_i"
+    ],
+    "model": "New Balance 860v7",
+    "price": 124.99,
+    "sex": 0,
+    "size": 8.5,
+    "fitrateBase": -6.177962779998779,
+    "index": 32
+  },
+  {
+    "barcode": "",
+    "cities": null,
+    "code": "W860BP7/D",
+    "fitrate": 6.1,
+    "groupID": "d89c8ce4-beb2-4ad3-a32e-6b4c80aa16f0",
+    "id": "60a21f25-33ee-4bf8-ba38-298ab1e3dfaa",
+    "images": [
+      "http://nb.scene7.com/is/image/NB/w860bp7_nb_02_i",
+      "http://nb.scene7.com/is/image/NB/w860bp7_nb_14_i"
+    ],
+    "model": "New Balance 860v7",
+    "price": 124.99,
+    "sex": 0,
+    "size": 11.5,
+    "fitrateBase": 6.116729736328125,
+    "index": 62
+  },
+  {
+    "barcode": "",
+    "cities": null,
+    "code": "W1080BY7/EE",
+    "fitrate": 6.1,
+    "groupID": "d89c8ce4-beb2-4ad3-a32e-6b4c80aa16f0",
+    "id": "7426ca11-b9a3-4e25-80a1-95537d312b0a",
+    "images": [
+      "http://nb.scene7.com/is/image/NB/w1080by7_nb_02_i",
+      "http://nb.scene7.com/is/image/NB/w1080by7_nb_14_i"
+    ],
+    "model": "Fresh Foam 1080v7",
+    "price": 124.99,
+    "sex": 0,
+    "size": 7,
+    "fitrateBase": -6.1469502449035645,
+    "index": 112
+  },
+  {
+    "barcode": "",
+    "cities": null,
+    "code": "W1260GO6/AA",
+    "fitrate": 6.1,
+    "groupID": "d89c8ce4-beb2-4ad3-a32e-6b4c80aa16f0",
+    "id": "c8e9970a-58a2-48b9-8eb2-c3582c919978",
+    "images": [
+      "http://nb.scene7.com/is/image/NB/w1260go6_nb_02_i",
+      "http://nb.scene7.com/is/image/NB/w1260go6_nb_03_i "
+    ],
+    "model": "New Balance 1260v6",
+    "price": 149.99,
+    "sex": 0,
+    "size": 13,
+    "fitrateBase": 6.0513105392456055,
+    "index": 1
+  },
+  {
+    "barcode": "",
+    "cities": null,
+    "code": "W860BP7/EE",
+    "fitrate": 6.1,
+    "groupID": "d89c8ce4-beb2-4ad3-a32e-6b4c80aa16f0",
+    "id": "fcb3b06b-d0a0-44dc-aef2-fcd1b67e02f7",
+    "images": [
+      "http://nb.scene7.com/is/image/NB/w860bp7_nb_02_i",
+      "http://nb.scene7.com/is/image/NB/w860bp7_nb_14_i"
+    ],
+    "model": "New Balance 860v7",
+    "price": 124.99,
+    "sex": 0,
+    "size": 11,
+    "fitrateBase": 6.1303863525390625,
+    "index": 17
+  },
+  {
+    "barcode": "",
+    "cities": null,
+    "code": "W1260GO6/AA",
+    "fitrate": 6.1,
+    "groupID": "d89c8ce4-beb2-4ad3-a32e-6b4c80aa16f0",
+    "id": "c8e9970a-58a2-48b9-8eb2-c3582c919978",
+    "images": [
+      "http://nb.scene7.com/is/image/NB/w1260go6_nb_02_i",
+      "http://nb.scene7.com/is/image/NB/w1260go6_nb_03_i "
+    ],
+    "model": "New Balance 1260v6",
+    "price": 149.99,
+    "sex": 0,
+    "size": 10,
+    "fitrateBase": -6.140707015991211,
+    "index": 7
+  },
+  {
+    "barcode": "",
+    "cities": null,
+    "code": "W1260GO6/AA",
+    "fitrate": 6.1,
+    "groupID": "d89c8ce4-beb2-4ad3-a32e-6b4c80aa16f0",
+    "id": "c8e9970a-58a2-48b9-8eb2-c3582c919978",
+    "images": [
+      "http://nb.scene7.com/is/image/NB/w1260go6_nb_02_i",
+      "http://nb.scene7.com/is/image/NB/w1260go6_nb_03_i "
+    ],
+    "model": "New Balance 1260v6",
+    "price": 149.99,
+    "sex": 0,
+    "size": 10.5,
+    "fitrateBase": 6.139004230499268,
+    "index": 6
+  },
+  {
+    "barcode": "",
+    "cities": null,
+    "code": "W1260GO6/EE",
+    "fitrate": 6.1,
+    "groupID": "d89c8ce4-beb2-4ad3-a32e-6b4c80aa16f0",
+    "id": "cfaca8de-460d-4edd-aae9-6c02376eef43",
+    "images": [
+      "http://nb.scene7.com/is/image/NB/w1260go6_nb_02_i",
+      "http://nb.scene7.com/is/image/NB/w1260go6_nb_03_i "
+    ],
+    "model": "New Balance 1260v6",
+    "price": 149.99,
+    "sex": 0,
+    "size": 7,
+    "fitrateBase": -6.1469502449035645,
+    "index": 53
+  },
+  {
+    "barcode": "",
+    "cities": null,
+    "code": "W1080BY7/AA",
+    "fitrate": 6.1,
+    "groupID": "d89c8ce4-beb2-4ad3-a32e-6b4c80aa16f0",
+    "id": "42d0aacd-26fe-4f12-96d7-44aaad660ef6",
+    "images": [
+      "http://nb.scene7.com/is/image/NB/w1080by7_nb_02_i",
+      "http://nb.scene7.com/is/image/NB/w1080by7_nb_14_i"
+    ],
+    "model": "Fresh Foam 1080v7",
+    "price": 149.99,
+    "sex": 0,
+    "size": 10.5,
+    "fitrateBase": 6.139004230499268,
+    "index": 83
+  },
+  {
+    "barcode": "",
+    "cities": null,
+    "code": "W1080BY7/AA",
+    "fitrate": 6.1,
+    "groupID": "d89c8ce4-beb2-4ad3-a32e-6b4c80aa16f0",
+    "id": "42d0aacd-26fe-4f12-96d7-44aaad660ef6",
+    "images": [
+      "http://nb.scene7.com/is/image/NB/w1080by7_nb_02_i",
+      "http://nb.scene7.com/is/image/NB/w1080by7_nb_14_i"
+    ],
+    "model": "Fresh Foam 1080v7",
+    "price": 149.99,
+    "sex": 0,
+    "size": 10,
+    "fitrateBase": -6.140707015991211,
+    "index": 84
+  },
+  {
+    "barcode": "",
+    "cities": null,
+    "code": "W1080BY7/AA",
+    "fitrate": 6.1,
+    "groupID": "d89c8ce4-beb2-4ad3-a32e-6b4c80aa16f0",
+    "id": "42d0aacd-26fe-4f12-96d7-44aaad660ef6",
+    "images": [
+      "http://nb.scene7.com/is/image/NB/w1080by7_nb_02_i",
+      "http://nb.scene7.com/is/image/NB/w1080by7_nb_14_i"
+    ],
+    "model": "Fresh Foam 1080v7",
+    "price": 149.99,
+    "sex": 0,
+    "size": 13,
+    "fitrateBase": 6.0513105392456055,
+    "index": 78
+  },
+  {
+    "barcode": "",
+    "cities": null,
+    "code": "W1080BY7/EE",
+    "fitrate": 6,
+    "groupID": "d89c8ce4-beb2-4ad3-a32e-6b4c80aa16f0",
+    "id": "7426ca11-b9a3-4e25-80a1-95537d312b0a",
+    "images": [
+      "http://nb.scene7.com/is/image/NB/w1080by7_nb_02_i",
+      "http://nb.scene7.com/is/image/NB/w1080by7_nb_14_i"
+    ],
+    "model": "Fresh Foam 1080v7",
+    "price": 124.99,
+    "sex": 0,
+    "size": 11,
+    "fitrateBase": 5.953582763671875,
+    "index": 104
+  },
+  {
+    "barcode": "",
+    "cities": null,
+    "code": "WZANTWG3/D",
+    "fitrate": 6,
+    "groupID": "d89c8ce4-beb2-4ad3-a32e-6b4c80aa16f0",
+    "id": "3876a399-4761-4991-a7a5-911cfcb0ceee",
+    "images": [
+      "http://nb.scene7.com/is/image/NB/wzantwg3_nb_02_i",
+      "http://nb.scene7.com/is/image/NB/wzantwg3_nb_03_i"
+    ],
+    "model": "Fresh Foam Zante v3",
+    "price": 99.99,
+    "sex": 0,
+    "size": 11.5,
+    "fitrateBase": 6.036444664001465,
+    "index": 113
+  },
+  {
+    "barcode": "",
+    "cities": null,
+    "code": "W1080BY7/D",
+    "fitrate": 6,
+    "groupID": "d89c8ce4-beb2-4ad3-a32e-6b4c80aa16f1",
+    "id": "2c8b7663-5d4e-478f-8012-cffc55fe25c2",
+    "images": [
+      "http://nb.scene7.com/is/image/NB/w1080by7_nb_02_i",
+      "http://nb.scene7.com/is/image/NB/w1080by7_nb_14_i"
+    ],
+    "model": "Fresh Foam 1080v7",
+    "price": 149.99,
+    "sex": 0,
+    "size": 11.5,
+    "fitrateBase": 5.968455791473389,
+    "index": 88
+  },
+  {
+    "barcode": "",
+    "cities": null,
+    "code": "W1260GO6/D",
+    "fitrate": 6,
+    "groupID": "d89c8ce4-beb2-4ad3-a32e-6b4c80aa16f0",
+    "id": "4364d6cf-22e9-49eb-8945-b5ddb6c87b81",
+    "images": [
+      "http://nb.scene7.com/is/image/NB/w1260go6_nb_02_i",
+      "http://nb.scene7.com/is/image/NB/w1260go6_nb_03_i "
+    ],
+    "model": "New Balance 1260v6",
+    "price": 149.99,
+    "sex": 0,
+    "size": 11.5,
+    "fitrateBase": 5.968455791473389,
+    "index": 54
+  },
+  {
+    "barcode": "",
+    "cities": null,
+    "code": "W1260GO6/EE",
+    "fitrate": 6,
+    "groupID": "d89c8ce4-beb2-4ad3-a32e-6b4c80aa16f0",
+    "id": "cfaca8de-460d-4edd-aae9-6c02376eef43",
+    "images": [
+      "http://nb.scene7.com/is/image/NB/w1260go6_nb_02_i",
+      "http://nb.scene7.com/is/image/NB/w1260go6_nb_03_i "
+    ],
+    "model": "New Balance 1260v6",
+    "price": 149.99,
+    "sex": 0,
+    "size": 11,
+    "fitrateBase": 5.953582763671875,
+    "index": 45
+  },
+  {
+    "barcode": "",
+    "cities": null,
+    "code": "WRUSHCG2/D",
+    "fitrate": 6,
+    "groupID": "d89c8ce4-beb2-4ad3-a32e-6b4c80aa16f0",
+    "id": "7c047809-adc4-43a2-8381-3ebe6cb331ef",
+    "images": [
+      "http://nb.scene7.com/is/image/NB/wrushcg2_nb_02_i",
+      "http://nb.scene7.com/is/image/NB/wrushcg2_nb_03_i"
+    ],
+    "model": "Vazee Rush v2",
+    "price": 79.99,
+    "sex": 0,
+    "size": 11.5,
+    "fitrateBase": 6.036444664001465,
+    "index": 39
+  }
+]

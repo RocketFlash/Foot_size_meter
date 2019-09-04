@@ -1,0 +1,13 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="appbar_padding_top">8dp</dimen>
+    <dimen name="dialog_width">350dp</dimen>
+    <dimen name="glview_width">150dp</dimen>
+    <dimen name="glview_height">100dp</dimen>
+    <dimen name="tabLayoutHeight">30dp</dimen>
+    <dimen name="loadingPlaceholderWidth">30dp</dimen>
+    <dimen name="loadingPlaceholderHeight">30dp</dimen>
+</resources>

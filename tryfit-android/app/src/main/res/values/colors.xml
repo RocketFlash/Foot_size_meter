@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#071e4a</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#428ffc</color>
+    <color name="colorInactive">@android:color/darker_gray</color>
+    <color name="colorBackground">#f7f9fa</color>
+    <color name="colorAccept">#16a009</color>
+    <color name="colorDecline">#ff1a1a</color>
+    <!--<color name="colorBackground">#fff3f3f3</color>-->
+    <color name="colorBackground2">#ebebeb</color>
+    <!--<color name="colorBackground">@android:color/white</color>-->
+    <color name="colorOutline">#7f848f</color>
+    <color name="textColorLight">#ffffff</color>
+    <color name="textColorLightGray">#b5b6bd</color>
+    <color name="textColorDarkGray">#7f848f</color>
+    <color name="colorAppBar">#ffffff</color>
+    <color name="colorTabsBar">#f5f7fa</color>
+    <color name="textColorAppBar">#000000</color>
+    <color name="indicatorGreen">#00FF55</color>
+    <color name="indicatorRed">#FF0000</color>
+
+    <color name="facebookButton">#4162a6</color>
+    <color name="googleButton">#d44250</color>
+    <color name="colorWhite">#ffffff</color>
+    <color name="colorBlack">#000000</color>
+
+    <color name="colorFitRateBest">#00FF55</color>
+    <color name="colorFitRateGood">#19f041</color>
+    <color name="colorFitRateAverage">#f8c028</color>
+    <color name="colorFitRateAverageLoose">#00caff</color>
+    <color name="colorFitRateBad">#e4103c</color>
+    <color name="colorFitRateBadLoose">#0033ff</color>
+
+    <color name="black_overlay">#66000000</color>
+
+</resources>
